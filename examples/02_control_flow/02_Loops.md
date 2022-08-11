@@ -18,6 +18,10 @@ fun main(args: Array<String>) {
 //sampleEnd
 }
 ```
+* [listOf](https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/list-of.html) : kotlin.collection
+```
+fun <T> listOf(vararg elements: T): List<T>
+```
 
 1. Loops through each cake in the list.
 
